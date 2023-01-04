@@ -19,3 +19,11 @@ For additional downloads and the source of MySQL, visit
   http://dev.mysql.com/downloads/
 
 MySQL is brought to you by the MySQL team at Oracle.
+# Auto detect text files and perform LF normalization
+* text=auto
+# Auto detect text files and perform LF normalization
+* text=auto
+# Auto detect text files and perform LF normalization
+* text=auto
+# Auto detect text files and perform LF normalization
+* text=auto
